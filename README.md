@@ -12,3 +12,5 @@
 and ones inside the repo type in terminal:
 
     python3 ./name_of_file
+
+bautifulsoup documentation - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
