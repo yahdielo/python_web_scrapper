@@ -6,6 +6,7 @@ import json
 #date sold returns None and i dont knpw why??
 
 #url to get charizard vmax trading cards finalize sells data from ebay
+ch_v_alt_art_psa10 = "https://www.ebay.com/sch/i.html?_from=R40&_nkw=charizard+v+alt+art+psa+10&_sacat=0&LH_TitleDesc=0&rt=nc&LH_Sold=1&LH_Complete=1"
 url = "https://www.ebay.com/sch/i.html?_from=R40&_nkw=charizard+vmax+rainbow+psa+10&_sacat=0&LH_TitleDesc=0&Grade=10&_oaa=1&_dcat=183454&LH_BO=1&rt=nc&LH_Sold=1&LH_Complete=1"
 
 def  get_data(url):
